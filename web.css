@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: rgb(122, 118, 155);
+}
+.question {
+    margin-bottom: 15px;
+}
+.for{
+    font-size: large;
+padding: auto;
+justify-content: center;
+}
+.button{
+    border: 20%;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    height: 30px;
+    width: 60px;
+opacity: inherit;
+}
+#result{
+margin-top: 20px;
+ display: none;
+}
